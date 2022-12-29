@@ -1,0 +1,45 @@
+.container{
+    background-color: rgb(231, 230, 225);
+    width: 1600px;
+    height: 65px;
+    margin-top: 6px;
+    margin-left: 150px;
+    
+}
+
+.bg-colourgr{
+    background-color: rgb(126, 229, 218);
+    width: 540px;
+    height: 69px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 3px;
+    padding-top: 10px;
+}
+
+.bg-colouryl{
+    background-color: rgb(112, 204, 194);
+    width: 312px;
+    height: 79px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 3px;
+
+}
+
+.bg-colourbl{
+    background-color: rgb(98, 179, 170);
+    width: 743px;
+    height: 79px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+.copy{
+    margin-top: 88px;
+}
+
+
+
+/*gerekli CSS ler eklendi. Proje bitirme süresi 1,5 saat*/ 
